@@ -4,6 +4,20 @@ Follow an FFmpeg export by its real progress and estimate the seconds left.
 
 Move progress off the editing screen. The bar reads the file FFmpeg already writes and uses actual render speed for the time estimate, so you can keep working in another application.
 
+## Screen transitions
+
+Watch the render progress and time estimate change as you browse the export readings.
+
+![Export Reel front display. Watch the render progress and time estimate change as you browse the export readings.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Export Reel rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Check the render and its ETA
 
 1. Add `-progress /path/to/render.progress` to the export command and set the same filename in the companion.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
