@@ -1,6 +1,17 @@
 {
   "app": "busybar-export-reel",
-  "sha256": "36b5be9202805720e6ced71f7105fd9e36c0921be1690ea01f2291d8e1634038",
+  "sha256": "ec8c73ca71baccc5e5a470b59ba548b6df043b03ede6c03499f10371b681a873",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.exportreel",
+    "sha256": "ec8c73ca71baccc5e5a470b59ba548b6df043b03ede6c03499f10371b681a873",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 90.0,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
