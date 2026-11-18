@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.exportreel exited: finished; heap peak 81.7 of 128 KiB",
-  "sha256": "e7aba96cbb17107f2a5ace959b8e602e829337de8455bbd7bdc57c1d4371aac2",
+  "sha256": "e862453b1c077158ccb139fc149d46598926cb70f65ac035c03716aff19db0a2",
   "pages": [
     {
       "caption": "EXPORT",
@@ -53,9 +53,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      3,
+      2
     ],
-    "exit": "App io.btype.exportreel exited: finished; heap peak 87.1 of 128 KiB"
+    "exit": "App io.btype.exportreel exited: finished; heap peak 85.8 of 128 KiB"
   }
 }

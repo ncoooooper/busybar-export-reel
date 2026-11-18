@@ -5,10 +5,6 @@ instrument({
   "primary": "Export Reel",
   "accent": "#F4A574",
   "cadence": 2000,
-  "motion": {
-    "motif": "folio",
-    "color": "#F4A574",
-    "shine": "#FFF2D6"
-  },
+  "motion": {enabled:false},
   "setup": "Start companion/serve.py"
 });
