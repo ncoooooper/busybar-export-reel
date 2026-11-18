@@ -1,0 +1,6 @@
+{
+  "category": "dev-monitoring",
+  "short_description": "Follow an FFmpeg export by its real progress and estimate the seconds left.",
+  "description": "Follow an FFmpeg export by its real progress and estimate the seconds left. Start FFmpeg with -progress /path/to/render.progress and your normal input and output options. Set file to that progress path and duration_seconds to the target timeline length. The decoder uses the last complete progress block and handles unavailable speed and the terminal end marker.",
+  "changelog": "First public version."
+}

@@ -2,7 +2,7 @@
   "name": "busybar-export-reel",
   "private": true,
   "version": "0.1.0",
-  "description": "Export Reel",
+  "description": "Follow an FFmpeg export by its real progress and estimate the seconds left.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {

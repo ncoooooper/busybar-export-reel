@@ -1,0 +1,42 @@
+{
+  "id": "BB-026",
+  "source": "A real FFmpeg job generated its machine-readable progress file on this Mac.",
+  "scenario": "Decoded progress=end after a two-second render and displayed 100% with zero seconds remaining.",
+  "keys": [
+    "up",
+    "down",
+    "ok"
+  ],
+  "frames": 54,
+  "distinct_frames": 13,
+  "exit": "App io.ncoooooper.exportreel exited: finished; heap peak 81.7 of 128 KiB",
+  "sha256": "51736a1eac4b3832741098ad2fd9ddc7b2326534cc82dadc8741ea2bf3525a12",
+  "pages": [
+    {
+      "caption": "EXPORT",
+      "value": "100%",
+      "lines": [
+        "Frame 20",
+        "Speed 1560.00x"
+      ],
+      "fraction": 1
+    },
+    {
+      "caption": "ETA",
+      "value": "0s",
+      "lines": [
+        "Encoded 2.0 s",
+        "Planned 2 s"
+      ]
+    }
+  ],
+  "initial": {
+    "caption": "EXPORT",
+    "value": "100%",
+    "lines": [
+      "Frame 20",
+      "Speed 1560.00x"
+    ],
+    "fraction": 1
+  }
+}
