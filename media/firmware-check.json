@@ -10,14 +10,14 @@
   "frames": 54,
   "distinct_frames": 13,
   "exit": "App io.ncoooooper.exportreel exited: finished; heap peak 81.7 of 128 KiB",
-  "sha256": "51736a1eac4b3832741098ad2fd9ddc7b2326534cc82dadc8741ea2bf3525a12",
+  "sha256": "507a0165879f9c27e47979c72697083a0a9ebeaa3d90de93e6e04e7acdb50c79",
   "pages": [
     {
       "caption": "EXPORT",
       "value": "100%",
       "lines": [
         "Frame 20",
-        "Speed 1560.00x"
+        "Speed 1770.00x"
       ],
       "fraction": 1
     },
@@ -35,7 +35,7 @@
     "value": "100%",
     "lines": [
       "Frame 20",
-      "Speed 1560.00x"
+      "Speed 1770.00x"
     ],
     "fraction": 1
   }
