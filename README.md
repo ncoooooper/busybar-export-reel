@@ -22,7 +22,7 @@ Move progress off the editing screen. The bar reads the file FFmpeg already writ
 
 ## Example from the emulator
 
-A 180-second timeline with 120 seconds encoded has 60 seconds of media left. If FFmpeg reports 2× speed, the estimated wall-clock time is about 30 seconds. An unavailable speed leaves the running ETA blank. A real FFmpeg job generated its machine-readable progress file on this Mac.
+A 180-second timeline with 120 seconds encoded has 60 seconds of media left. If FFmpeg reports 2× speed, the estimated wall-clock time is about 30 seconds. An unavailable speed leaves the running ETA blank. The recording used the progress file from a real two-second FFmpeg export on the test Mac.
 
 ## Set up the source
 
